@@ -67,6 +67,7 @@
     <Compile Include="Assets\Script\shooter.cs" />
     <Compile Include="Assets\Script\target.cs" />
     <Compile Include="Assets\Script\wall.cs" />
+    <Compile Include="Assets\shooting.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/hi/New Unity Project2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
