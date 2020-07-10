@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\collide.cs" />
+    <Compile Include="Assets\lookmouse.cs" />
     <Compile Include="Assets\Script\dart.cs" />
     <Compile Include="Assets\Script\shooter.cs" />
     <Compile Include="Assets\Script\target.cs" />
